@@ -1,5 +1,7 @@
 # Prodesk IT – Week 1 Task | Responsive Landing Page
 
+[🔗 View Live Project](https://prodesk-it-week-1-task-landing-page.vercel.app/)
+
 A modern and fully responsive **Digital Agency Landing Page** developed as part of the **Prodesk IT Internship – Week 1 Task**.  
 This project focuses on clean UI design, responsiveness, and structured frontend development using core web technologies.
 
@@ -34,16 +36,11 @@ The website adapts seamlessly to different screen sizes and provides a smooth us
 ## 📷 Website Screenshot
 
 Below is a preview of the landing page:
-<img width="953" height="567" alt="screenshot1" src="https://github.com/user-attachments/assets/4576ca77-e326-4ff9-a629-f04ae4081bfe" />
-![screenshot2](https://github.com/user-attachments/assets/1da36330-33fd-4a39-b11f-44c1cd11609b)
+![Landing Page]<img width="953" height="567" alt="screenshot1" src="https://github.com/user-attachments/assets/4576ca77-e326-4ff9-a629-f04ae4081bfe" />
+![Landing Page](https://github.com/user-attachments/assets/1da36330-33fd-4a39-b11f-44c1cd11609b)
 
-![screenshot3](https://github.com/user-attachments/assets/fa0b56b8-7278-422d-88b9-bd9b5153c690)
+![Landing Page](https://github.com/user-attachments/assets/fa0b56b8-7278-422d-88b9-bd9b5153c690)
 
-
-
-
-
-> 📌 Make sure the screenshot file is named **`screenshot.png`** and uploaded in the root directory of the repository.
 
 ---
 
